@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nithin</h1>
 <h3 align="center">A passionate data engineer</h3>
 
-- 🌱 I’m currently doing my masters in **Data Analytics**
+- 🌱 I’m currently doing my masters in **Data Analytics** at San Jose State University
 
 - 📫 How to reach me **nithinkeshavamurthy@gmail.com**
 
